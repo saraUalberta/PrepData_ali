@@ -1,0 +1,8 @@
+status file for recon-all
+Sun Dec 31 16:40:42 UTC 2017
+#@# MotionCor Sun Dec 31 16:40:51 UTC 2017
+#@# Talairach Sun Dec 31 16:41:16 UTC 2017
+Linux ali 3.13.0-121-generic #170-Ubuntu SMP Wed Jun 14 09:04:33 UTC 2017 x86_64 x86_64 x86_64 GNU/Linux
+
+recon-all -s 3174 exited with ERRORS at Sun Dec 31 16:42:01 UTC 2017
+

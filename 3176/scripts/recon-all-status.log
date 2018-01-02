@@ -1,0 +1,90 @@
+status file for recon-all
+Sun Dec 31 16:41:14 UTC 2017
+#@# MotionCor Sun Dec 31 16:41:26 UTC 2017
+#@# Talairach Sun Dec 31 16:41:56 UTC 2017
+Linux ali 3.13.0-121-generic #170-Ubuntu SMP Wed Jun 14 09:04:33 UTC 2017 x86_64 x86_64 x86_64 GNU/Linux
+
+recon-all -s 3176 exited with ERRORS at Sun Dec 31 16:42:03 UTC 2017
+
+
+
+
+New invocation of recon-all 
+
+
+
+status file for recon-all
+Sun Dec 31 21:26:39 UTC 2017
+#@# Talairach Sun Dec 31 21:26:39 UTC 2017
+#@# Talairach Failure Detection Sun Dec 31 21:30:52 UTC 2017
+#@# Nu Intensity Correction Sun Dec 31 21:30:52 UTC 2017
+#@# Intensity Normalization Sun Dec 31 21:36:01 UTC 2017
+#@# Skull Stripping Sun Dec 31 21:40:55 UTC 2017
+#@# EM Registration Sun Dec 31 22:25:20 UTC 2017
+#@# CA Normalize Sun Dec 31 23:00:24 UTC 2017
+#@# CA Reg Sun Dec 31 23:03:45 UTC 2017
+#@# SubCort Seg Mon Jan  1 05:37:11 UTC 2018
+#@# Merge ASeg Mon Jan  1 08:02:28 UTC 2018
+#@# Intensity Normalization2 Mon Jan  1 08:02:28 UTC 2018
+#@# Mask BFS Mon Jan  1 08:10:24 UTC 2018
+#@# WM Segmentation Mon Jan  1 08:10:28 UTC 2018
+#@# Fill Mon Jan  1 08:15:13 UTC 2018
+#@# Tessellate lh Mon Jan  1 08:17:13 UTC 2018
+#@# Tessellate rh Mon Jan  1 08:17:29 UTC 2018
+#@# Smooth1 lh Mon Jan  1 08:17:43 UTC 2018
+#@# Smooth1 rh Mon Jan  1 08:17:55 UTC 2018
+#@# Inflation1 lh Mon Jan  1 08:18:08 UTC 2018
+#@# Inflation1 rh Mon Jan  1 08:19:30 UTC 2018
+#@# QSphere lh Mon Jan  1 08:21:00 UTC 2018
+#@# QSphere rh Mon Jan  1 08:29:44 UTC 2018
+#@# Fix Topology Copy lh Mon Jan  1 08:37:49 UTC 2018
+#@# Fix Topology Copy rh Mon Jan  1 08:37:49 UTC 2018
+#@# Fix Topology lh Mon Jan  1 08:37:49 UTC 2018
+#@# Fix Topology rh Mon Jan  1 09:52:41 UTC 2018
+#@# Make White Surf lh Mon Jan  1 11:21:24 UTC 2018
+#@# Make White Surf rh Mon Jan  1 11:33:20 UTC 2018
+#@# Smooth2 lh Mon Jan  1 11:45:50 UTC 2018
+#@# Smooth2 rh Mon Jan  1 11:46:02 UTC 2018
+#@# Inflation2 lh Mon Jan  1 11:46:16 UTC 2018
+#@# Inflation2 rh Mon Jan  1 11:47:40 UTC 2018
+#@# Curv .H and .K lh Mon Jan  1 11:49:06 UTC 2018
+#@# Curv .H and .K rh Mon Jan  1 11:52:30 UTC 2018
+#@# Curvature Stats lh Mon Jan  1 11:55:39 UTC 2018
+#@# Curvature Stats rh Mon Jan  1 11:55:47 UTC 2018
+#@# Sphere lh Mon Jan  1 11:55:56 UTC 2018
+#@# Sphere rh Mon Jan  1 14:12:22 UTC 2018
+#@# Surf Reg lh Mon Jan  1 16:12:58 UTC 2018
+#@# Surf Reg rh Mon Jan  1 18:04:45 UTC 2018
+#@# Jacobian white lh Mon Jan  1 19:55:04 UTC 2018
+#@# Jacobian white rh Mon Jan  1 19:55:08 UTC 2018
+#@# AvgCurv lh Mon Jan  1 19:55:11 UTC 2018
+#@# AvgCurv rh Mon Jan  1 19:55:15 UTC 2018
+#@# Cortical Parc lh Mon Jan  1 19:55:18 UTC 2018
+#@# Cortical Parc rh Mon Jan  1 19:55:50 UTC 2018
+#@# Make Pial Surf lh Mon Jan  1 19:56:20 UTC 2018
+#@# Make Pial Surf rh Mon Jan  1 20:25:55 UTC 2018
+#@# Surf Volume lh Mon Jan  1 20:56:22 UTC 2018
+#@# Surf Volume rh Mon Jan  1 20:56:29 UTC 2018
+#@# Cortical ribbon mask Mon Jan  1 20:56:36 UTC 2018
+#@# Parcellation Stats lh Mon Jan  1 21:31:59 UTC 2018
+#@# Parcellation Stats rh Mon Jan  1 21:34:49 UTC 2018
+#@# Cortical Parc 2 lh Mon Jan  1 21:37:40 UTC 2018
+#@# Cortical Parc 2 rh Mon Jan  1 21:38:18 UTC 2018
+#@# Parcellation Stats 2 lh Mon Jan  1 21:38:55 UTC 2018
+#@# Parcellation Stats 2 rh Mon Jan  1 21:40:25 UTC 2018
+#@# Cortical Parc 3 lh Mon Jan  1 21:41:54 UTC 2018
+#@# Cortical Parc 3 rh Mon Jan  1 21:42:25 UTC 2018
+#@# Parcellation Stats 3 lh Mon Jan  1 21:42:54 UTC 2018
+#@# Parcellation Stats 3 rh Mon Jan  1 21:44:20 UTC 2018
+#@# WM/GM Contrast lh Mon Jan  1 21:45:47 UTC 2018
+#@# WM/GM Contrast rh Mon Jan  1 21:46:00 UTC 2018
+#@# Relabel Hypointensities Mon Jan  1 21:46:11 UTC 2018
+#@# AParc-to-ASeg aparc Mon Jan  1 21:46:57 UTC 2018
+#@# AParc-to-ASeg a2009s Mon Jan  1 21:58:20 UTC 2018
+#@# AParc-to-ASeg DKTatlas Mon Jan  1 22:09:53 UTC 2018
+#@# APas-to-ASeg Mon Jan  1 22:21:29 UTC 2018
+#@# ASeg Stats Mon Jan  1 22:21:43 UTC 2018
+#@# WMParc Mon Jan  1 22:28:13 UTC 2018
+#@# BA_exvivo Labels lh Mon Jan  1 22:46:55 UTC 2018
+#@# BA_exvivo Labels rh Mon Jan  1 22:56:31 UTC 2018
+recon-all -s 3176 finished without error at Mon Jan  1 23:06:02 UTC 2018
